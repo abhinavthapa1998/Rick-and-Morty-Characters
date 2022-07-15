@@ -1,4 +1,4 @@
-# Rick-and-Morty-Characters
+# Rick and Morty Character List
 
 ## Available Scripts
 Used `Vitejs` for development.
